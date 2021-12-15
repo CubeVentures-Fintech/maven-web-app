@@ -13,6 +13,7 @@
 <h2 align="center">  
 	An ideal online training  platform for DevOps and Cloud Engineers. 
 	Class26 will run from October 2, 2021 and it will be a great achivement for every student
+	Jesus is the son of the living God
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
